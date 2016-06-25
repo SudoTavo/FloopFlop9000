@@ -1,0 +1,7 @@
+.root{
+	-fx-background-color: skyblue, derive(skyblue, 25%);
+    -fx-background-image: url("background.png"), url("duke.gif");
+    -fx-background-repeat: stretch;
+    -fx-background-position: left top, center;
+    -fx-background-size: cover, auto;
+}

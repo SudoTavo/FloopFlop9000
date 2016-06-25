@@ -17,10 +17,15 @@ public class PlatformFactory {
     }
 
     private static String getPlatformClassName() {
+    	try{
         switch (JavaFXPlatform.getCurrent()) {
             case ANDROID: return "com.floopflop.AndroidNativePlatform";
             case IOS: return "com.floopflop.IosNativePlatform";
             default : return "com.floopflop.DesktopNativePlatform";
-        }
+        	}
+    	}
+    	catch(NoClassDefFoundError e){
+    		return "com.floopflop.DesktopNativePlatform";
+    	}
     }
 }

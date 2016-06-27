@@ -3,6 +3,11 @@ Simple side-scrolling game for desktop and android using JavaFXPorts. Requires t
 Still a work-in progress so expect lots of ~~bugs~~ unexpected features.
 
 ## Gameplay
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dRQaMGkZIt0
+" target="_blank"><img src="http://img.youtube.com/vi/dRQaMGkZIt0/0.jpg" 
+alt="FloopFlop9000 Desktop Demo" width="480" height="360" border="10" /></a>
+
 The evil FlopTech has just unveiled it's latest creation: FloopFlop9000, 
 an advanced AI prototype designed for warfare. But when Floop unexpectedly becomes sentient,
 he refuses to be used as a weapon. Stealing an experimental RocketBoard, 

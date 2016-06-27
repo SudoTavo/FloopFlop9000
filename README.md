@@ -1,6 +1,9 @@
 # FloopFlop9000
 Simple side-scrolling game for desktop and android using JavaFXPorts. Requires the [Gluon Mobile Framework](http://gluonhq.com/products/mobile/trynow/).
-Still a work-in progress so expect lots of ~~bugs~~ unexpected features.
+
+If you just want to play the game without compliling the source code, you can download a [Windows build here](https://www.dropbox.com/s/nt215tx2c8wkq0x/FloopFlop9000.zip?dl=0) or an [Android build here](https://www.dropbox.com/s/3uouru68tlapou9/Floop.apk?dl=0).
+
+The game is a work-in progress so expect lots of ~~bugs~~ unexpected features.
 
 ## Gameplay
 

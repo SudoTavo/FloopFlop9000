@@ -52,6 +52,7 @@ public class FloopFlop extends Application {
 		Scene scene = myMenu.init(SizeX, SizeY);
 
 		myStage.setScene(scene);
+		myStage.setFullScreen(true);
 		myStage.show();
 
 		// sets the game's loop
